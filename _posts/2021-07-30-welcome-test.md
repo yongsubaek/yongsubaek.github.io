@@ -3,16 +3,13 @@ layout: post
 current: post
 cover:  assets/images/welcome.jpg
 navigation: True
-title: Welcome to My Blog
-date: 2021-07-30 23:03:00
+title: Welcome to Ghost
+date: 2021-07-30 10:00:00
 tags: [Getting started]
 class: post-template
 subclass: 'post'
-author: hunter
-typora-copy-images-to: ..\assets\images\2021-07-30
+author: yongsu
 ---
-
-
 
 # This is my first post
 

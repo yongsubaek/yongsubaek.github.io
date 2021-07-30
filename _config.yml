@@ -24,7 +24,7 @@ navigation: True # show the navbar links
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
 # twitter: tryghost # replace by your username
-facebook: bloo711 # replace by your username
+# facebook: bloo711 # replace by your username
 
 # Disqus
 disqus: False
