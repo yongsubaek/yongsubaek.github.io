@@ -14,3 +14,7 @@ getting-started:
   name: getting-started
   description: False
   cover: False
+paper-summary:
+  name: paper-summary
+  description: Paper Review and Summary
+  cover: False

@@ -74,3 +74,14 @@ martin:
   facebook: False
   twitter: False
   cover: False
+hunter:
+  username: hunter
+  name: Hunter
+  location: Seoul
+  url_full: False
+  url: False
+  bio: I'm working as a Machine Learning Engineer at HyperConnect.
+  picture: assets/images/hunter-profile.jpg
+  facebook: False
+  twitter: False
+  cover: assets/images/hunter-cover.jpg

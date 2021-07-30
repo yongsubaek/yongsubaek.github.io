@@ -4,6 +4,7 @@ highlighter: rouge
 paginate: 100 # it will paginate after this number
 language: 'en-uk'
 words_per_minute: 200
+timezone: Asia/Seoul
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /
@@ -12,7 +13,7 @@ baseurl: /
 title: Yongsu Baek
 description: Personal Blog.
 cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
+logo: assets/images/yongsu-head.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 CNAME: #add cname for website to be created
@@ -38,7 +39,7 @@ permalink: /:title
 # permalink: /tag/:tag
 
 # Authors' info in `_data/authors.yml`
-# Tags' info in `_data/tags_info.yml`
+# Tags' info in `_data/tags.yml`
 
 # gems and other configs
 plugins_dir: [_plugins]
