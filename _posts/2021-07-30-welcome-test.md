@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  assets/images/welcome.jpg
 navigation: True
-title: Welcome to Ghost
+title: Welcome to Yongsu's Blog
 date: 2021-07-30 10:00:00
 tags: [Getting started]
 class: post-template
