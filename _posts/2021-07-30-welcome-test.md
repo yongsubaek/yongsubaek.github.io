@@ -9,6 +9,7 @@ tags: [Getting started]
 class: post-template
 subclass: 'post'
 author: yongsu
+typora-copy-images-to: ..\assets\images\2021-07-30
 ---
 
 # This is my first post
