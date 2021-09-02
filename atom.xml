@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>Yongsu's Personal Blog.</description>
+    <link>
+    </link>
+    
+      
+      <item>
+        <title>Welcome to Yongsu's Blog</title>
+        
+          <description>&lt;h1 id=&quot;this-is-my-first-post&quot;&gt;This is my first post&lt;/h1&gt;
+
+&lt;p&gt;Here I’d like to test the image  upload and typora.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/2021-07-30/test-image.png&quot; alt=&quot;test-image&quot; style=&quot;zoom: 25%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m getting used to use typora, markdown, and github action for my github page blog. 😁&lt;/p&gt;
+
+&lt;p&gt;I am working as a Machine Learning Engineer, so the contents will be related to it. But everything I want to write and share can be posted.&lt;/p&gt;
+
+&lt;p&gt;I really appreciate to all people who made the tools, like github, typora, vscode, etc., which I am using to distribute &lt;a href=&quot;https://yongsubaek.github.io/&quot;&gt;my personal blog&lt;/a&gt; &lt;strong&gt;totally free&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;All details about me will be added while uploading posts.&lt;/p&gt;
+</description>
+        
+        <pubDate>Fri, 30 Jul 2021 19:00:00 +0900</pubDate>
+        <link>
+        /welcome-test</link>
+        <guid isPermaLink="true">/welcome-test</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
