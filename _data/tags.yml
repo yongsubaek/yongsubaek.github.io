@@ -18,3 +18,7 @@ paper-summary:
   name: paper-summary
   description: Paper Review and Summary
   cover: False
+book:
+  name: book
+  descriptsion: Book review
+  cover: False
